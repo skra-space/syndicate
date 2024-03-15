@@ -1,0 +1,2 @@
+# syndicate
+eurorack control everything
